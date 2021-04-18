@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Rakeshd3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... css html already expertise in python sql wanted to collabrate anything
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Rakesh Enthusiatic learner of new technology
+- 👀 I’m interested in webdevelopment,ai,python programming
+- 🌱 I’m currently learning css html already expertise in python sql wanted to collabrate on specifiacally data engineering,building etl pipelines, web development etc
+
 - 📫 How to reach me ...
 
 <!---
